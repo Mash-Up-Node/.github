@@ -15,14 +15,14 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://avatars.githubusercontent.com/u/45956041?v=4">
+            <img src="https://github.com/J-Hoplin.png?size=100">
             <br>
-            <a href="https://github.com/J-Hoplin"><I>JonghunAn</I></a>
+            <a href="https://github.com/J-Hoplin"><I>J-Hoplin</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/43634786?v=4">
+            <img src="https://github.com/sally0226.png?size=100">
             <br>
-            <a href="https://github.com/sally0226"><I>Marades</I></a>
+            <a href="https://github.com/sally0226"><I>sally0226</I></a>
         </td>
     </tr>
 </table>
@@ -37,14 +37,14 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://avatars.githubusercontent.com/u/76805070?v=4">
+            <img src="https://github.com/hyun-git.png?size=100">
             <br>
-            <a href="https://github.com/hyun-git"><I>JonghunAn</I></a>
+            <a href="https://github.com/hyun-git"><I>hyun-git</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/71132893?v=4">
+            <img src="https://github.com/Ho-s.png?size=100">
             <br>
-            <a href="https://github.com/Ho-s"><I>Marades</I></a>
+            <a href="https://github.com/Ho-s"><I>Ho-s</I></a>
         </td>
         <td>
           <img src="https://github.com/hye-on.png?size=100">
@@ -56,25 +56,25 @@
 
 <table>
     <tr align="center">
-        <td><B>이윤하<B></td>
+        <td><B>이윤하<B></td>
         <td><B>주병호<B></td>
-        <td><B>조혜온<B></td>
+        <td><B>이미나<B></td>
     </tr>
     <tr align="center">
         <td>
-            <img src="https://avatars.githubusercontent.com/u/92084974?v=4">
+            <img src="https://github.com/labyrinth30.png?size=100">
             <br>
-            <a href="https://github.com/labyrinth30"><I>JonghunAn</I></a>
+            <a href="https://github.com/labyrinth30"><I>labyrinth30</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/52996979?v=4">
+            <img src="https://github.com/Choi-JY1107.png?size=100">
             <br>
-            <a href="https://github.com/Choi-JY1107"><I>Marades</I></a>
+            <a href="https://github.com/Choi-JY1107"><I>Choi-JY1107</I></a>
         </td>
         <td>
-          <img src="https://avatars.githubusercontent.com/u/109032458?v=4">
+          <img src="https://github.com/chsjen492.png?size=100">
             <br>
-            <a href="https://github.com/chsjen492"><I>hye-on</I></a>
+            <a href="https://github.com/chsjen492"><I>chsjen492</I></a>
         </td>
     </tr>
 </table>
