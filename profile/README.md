@@ -72,7 +72,7 @@
             <a href="https://github.com/Choi-JY1107"><I>Choi-JY1107</I></a>
         </td>
         <td>
-          <img src="https://github.com/chsjen492.png?size=100">
+          <img src="https://github.com/chsjen492.png?size=100" width="100">
             <br>
             <a href="https://github.com/chsjen492"><I>chsjen492</I></a>
         </td>
