@@ -57,7 +57,7 @@
 <table>
     <tr align="center">
         <td><B>이윤하<B></td>
-        <td><B>주병호<B></td>
+        <td><B>최재영<B></td>
         <td><B>이미나<B></td>
     </tr>
     <tr align="center">
