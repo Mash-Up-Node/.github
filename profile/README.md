@@ -43,7 +43,7 @@
         <td>
             <img src="https://github.com/KKardy.png?size=100">
             <br>
-            <a href="https://github.com/KKardys"><I>KKardy</I></a>
+            <a href="https://github.com/KKardy"><I>KKardy</I></a>
         </td>
         <td>
           <img src="https://github.com/sudosubin.png?size=100">
