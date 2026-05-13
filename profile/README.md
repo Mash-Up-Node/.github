@@ -30,7 +30,7 @@
 
 <table>
     <tr align="center">
-        <td><B>강효은<B></td>
+        <td><B>강효인<B></td>
         <td><B>공진성<B></td>
         <td><B>김수빈<B></td>
     </tr>
